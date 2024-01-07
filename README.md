@@ -69,6 +69,7 @@
 Ссылка на коммит:
   
 `https://github.com/bodra84/8-01_z01/commit/627e5950df365bb1d25408d3fcfe42b6b3a19ae6`
+
 ---
 
 ### Задание 3
