@@ -48,7 +48,7 @@
   
 Ссылка на коммит:
   
-`https://github.com/bodra84/8-01_z01/commit/eac46a8a9aec194e9d060d1b349c938c2888acd2`
+[https://github.com/bodra84/8-01_z01/commit/eac46a8](https://github.com/bodra84/8-01_z01/commit/eac46a8a9aec194e9d060d1b349c938c2888acd2)
 
 ---
 
@@ -68,7 +68,7 @@
   
 Ссылка на коммит:
   
-`https://github.com/bodra84/8-01_z01/commit/627e5950df365bb1d25408d3fcfe42b6b3a19ae6`
+[https://github.com/bodra84/8-01_z01/commit/627e595](https://github.com/bodra84/8-01_z01/commit/627e5950df365bb1d25408d3fcfe42b6b3a19ae6)
 
 ---
 
@@ -95,9 +95,9 @@
 
 ### Решение 3
   
-Граф коммитов:
+Ссылка на граф коммитов:
   
-![скрин графа](https://github.com/bodra84/8-01_z01/network)
+[https://github.com/bodra84/8-01_z01/network](https://github.com/bodra84/8-01_z01/network/)
 
 ---
 
